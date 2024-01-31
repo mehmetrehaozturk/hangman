@@ -13,3 +13,5 @@ Bu basit JavaScript uygulamasıyla kullanıcı bir kelimeyi tahmin etmeye çalı
 
 ```bash
 git clone https://github.com/mehmetrehaozturk/hangman.git
+
+![image](https://github.com/mehmetrehaozturk/hangman/assets/147929988/5b650aac-0460-423d-86d5-1a0e0d028d8b)
